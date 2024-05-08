@@ -1,0 +1,17 @@
+dataset_name,n_iter,lr,rfm_n_iter,rfm_reg,rfm_ridge,n_estimators,n_ensembles,depth,ard_num_dims,standardize,to_numpy
+Ailerons,100,0.05,,,,,,,1,True,False
+Bike_Sharing_Demand,100,0.05,,,,,,,1,True,False
+Brazilian_houses,100,0.05,,,,,,,1,True,False
+MiamiHousing2016,100,0.05,,,,,,,1,True,False
+california,100,0.05,,,,,,,1,True,False
+cpu_act,100,0.05,,,,,,,1,True,False
+elevators,100,0.05,,,,,,,1,True,False
+fifa,100,0.05,,,,,,,1,True,False
+house_16H,100,0.05,,,,,,,1,True,False
+house_sales,100,0.05,,,,,,,1,True,False
+houses,100,0.05,,,,,,,1,True,False
+isolet,100,0.05,,,,,,,1,True,False
+pol,100,0.05,,,,,,,1,True,False
+sulfur,100,0.05,,,,,,,1,True,False
+superconduct,100,0.05,,,,,,,1,True,False
+wine_quality,100,0.05,,,,,,,1,True,False
