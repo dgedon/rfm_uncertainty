@@ -1,0 +1,32 @@
+name: rfm_uncertainty
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10.9
+  - pytorch=2.0.0
+  - torchvision=0.15.0
+  - torchaudio=2.0.0
+  - cudatoolkit=11.8
+  - gpytorch=1.11
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tqdm
+  - notebook
+  - ipywidgets
+  - openml
+  - ngboost
+  - catboost
+  - ipdb
+  - hickle
+  - pip
+  - pip:
+    - pandas
+    - torch
+    - torchmetrics
+    - torchaudio
+    - torchvision
