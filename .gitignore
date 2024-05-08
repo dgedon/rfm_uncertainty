@@ -1,0 +1,11 @@
+# general folders
+.idea/
+*/__pycache__
+__pycache__*
+.ipynb_checkpoints/
+
+catboost_info/
+data/
+results/
+
+*.sh
